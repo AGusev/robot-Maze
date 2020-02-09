@@ -4,7 +4,13 @@ import becker.robots.*;
  * CS1A - Assignment 3 - "The Maze" <br>
  * Quarter: Winter<br>
  * THE SUMMARY GOES HERE <br>
- * 
+ * This program is a 2D maze with x (avenues) and y (streets) coordinates. 
+ * The maze contains open spaces and walls.  The robot can move forward, turn left 
+ * (and other combinations of turning left), pick up and put things. 
+ * The main idea of this program is to create a Robot bot that would escape from the Maze. 
+ * The robot should avoid walls and in this case turn Left, Right or Around. 
+ * Once the Robot is at the endpoint – the game is over.
+ * <br>
  * @author Aleksandr Gusev
  * @author Victor Troncoso
  */
